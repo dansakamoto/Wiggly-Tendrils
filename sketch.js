@@ -20,7 +20,7 @@ function draw() {
     textSize(32);
     textAlign(CENTER, CENTER);
     textStyle(ITALIC);
-   	text("CLICK TO MAKE SOME WIGGLY TENDRILS", width/2, height/2); 
+   	text("CLICK TO MAKE SOME WIGGLY TENDRILS (version 2, oh yeah)", width/2, height/2); 
   }
 	
 	for (var i = 0; i < wircles.length; i++){
